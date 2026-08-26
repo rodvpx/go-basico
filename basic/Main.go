@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"go_basico/math"
+	"basic/math"
 )
 
 func main() {
